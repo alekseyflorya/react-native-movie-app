@@ -2,7 +2,7 @@ This project was created with [React Native CLI](https://reactnative.dev/) and [
 
 ## Description
 This project is a new practical item of my mobile app series that made with:
-- react native v0.65.1
+- react native v0.66.0
 - [the-movie-database-api](https://www.themoviedb.org/) - (to fetch movies and casting data)
 - [@react-navigation/stack](https://reactnavigation.org/docs/stack-navigator/) - (to screen transitions)
 - [@reduxjs/toolkit](https://redux-toolkit.js.org/) - (to screen transitions)
